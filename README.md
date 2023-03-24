@@ -1,2 +1,2 @@
 # a-little-site
-My page for exposing my service as web developer freelancer
+A personal page I developed to exercise my web-stack knowledge
